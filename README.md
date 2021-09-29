@@ -2,6 +2,12 @@
 
 This is the server for the websockets hack-a-thing-2 project that I worked on. This project was extremely difficult, and even though I spent many hours on trying to develop this, I was unfortunately unable to make the websockets work correctly.
 
+Tutorials I pulled from:
+https://modernweb.com/building-multiplayer-games-node-js-socket-io/
+https://rotemtam.medium.com/build-a-kahoot-clone-with-angularjs-and-firebase-b8b30891d968
+https://socket.io/get-started/chat
+
+
 ## What did work
 Users were able to generate a new game id, and then join that room with their name. The users that joined the room could then see their name on the host's screen.
 
